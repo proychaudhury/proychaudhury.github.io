@@ -125,6 +125,6 @@ a:hover {
   }
   h1 {
     font-size: 180%;
-    border-right: none;
+    border-right: 0;
   }
 }
