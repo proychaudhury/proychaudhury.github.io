@@ -127,4 +127,7 @@ a:hover {
     font-size: 170%;
     border-right: 0;
   }
+  h2 {
+    font-size: 90%;
+  }
 }
